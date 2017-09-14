@@ -1,8 +1,13 @@
 ```tetris-go``` is a [tetris game](https://tetris.wiki/) implementation that runs in the terminal.
+
 [https://github.com/nsf/termbox-go](https://github.com/nsf/termbox-go) is used to render the blocks and draw texts.
 
-# Install
-```go install  github.com/ilkinulas/tetris-go```
+# Install & Run
+1. ```go get github.com/ilkinulas/tetris-go```
+
+2. ```go install  github.com/ilkinulas/tetris-go```
+
+3. ```tetris-go```
 
 ![Tetris-Go Demo](https://media.giphy.com/media/l1J9wLKhqrTXiceOc/giphy.gif)
 
